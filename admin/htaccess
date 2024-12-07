@@ -1,0 +1,10 @@
+
+# HTID:22699935: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
+php_value display_errors 1
+# DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:22699935:
+
+# HTID:22745394: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
+RewriteEngine on
+RewriteCond %{HTTP_REFERER} !^http(s)?://(www.)?(btlchamsocsuckhoe.000webhostapp.com)(/)?.*$      [NC]
+RewriteRule .*.(.*)$ https://btlchamsocsuckhoe [R,NC]
+# DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:22745394:
